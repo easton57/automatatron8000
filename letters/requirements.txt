@@ -1,0 +1,4 @@
+pyad>=0.6.0
+pytz>=2021.1
+pandas>=1.2.3
+keyring>=22.3.0
